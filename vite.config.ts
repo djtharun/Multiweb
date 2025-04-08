@@ -9,5 +9,6 @@ export default defineConfig({
   },
   build: {
     outDir: 'dist', // Default output directory is 'dist'
-  }
+  },
+  base: '/Multiweb/',
 });
